@@ -177,3 +177,16 @@ form {
 .pic-heading {
   margin: 15px 10px 0px 10px;
 }
+
+/* media */
+@media only screen and (max-width: 980px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 640px) {
+
+}
